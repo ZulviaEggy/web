@@ -20,7 +20,7 @@ self.__precacheManifest = [
     "url": "/web-eggy/static/css/main.4744f13e.chunk.css"
   },
   {
-    "revision": "b3d72764246345874a97687072bde932",
+    "revision": "55dc1d27e26859201710b3ffdcf9d1a2",
     "url": "/web-eggy/index.html"
   }
 ];
