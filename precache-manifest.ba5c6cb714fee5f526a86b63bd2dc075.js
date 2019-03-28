@@ -8,19 +8,19 @@ self.__precacheManifest = [
     "url": "/web-eggy/static/js/runtime~main.6b44b3d0.js"
   },
   {
-    "revision": "8f82af9a7def54902808",
-    "url": "/web-eggy/static/js/main.8f82af9a.chunk.js"
+    "revision": "56505aba8fa9db1a1386",
+    "url": "/web-eggy/static/js/main.56505aba.chunk.js"
   },
   {
     "revision": "cfbda0e9061432ca6501",
     "url": "/web-eggy/static/js/2.cfbda0e9.chunk.js"
   },
   {
-    "revision": "8f82af9a7def54902808",
-    "url": "/web-eggy/static/css/main.4744f13e.chunk.css"
+    "revision": "56505aba8fa9db1a1386",
+    "url": "/web-eggy/static/css/main.edb2c28d.chunk.css"
   },
   {
-    "revision": "55dc1d27e26859201710b3ffdcf9d1a2",
+    "revision": "df6e1d85b324f0499b3eebf4f530a329",
     "url": "/web-eggy/index.html"
   }
 ];
